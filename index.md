@@ -13,7 +13,7 @@ Dette er supportwebsiden til kurset "Introduktion til Programmering", der afhold
 
 Sitet vil sikkert blive opdateret i løbet af kurset.
 
-##
+## Kontakt
 
 Kontakt [michell@cronberg.dk](mailto:michell@cronberg.dk) ved spørgsmål eller kommentarer.
 
