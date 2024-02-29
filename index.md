@@ -2,7 +2,7 @@
 title: Home
 ---
 
-Dette er supportwebsiden til kurset "Introduktion til Programmering", der afholdes i marts 2024. Denne side vil være aktiv i et par måneder og tjene som et ressourcecenter, hvor du kan finde links og andre materialer, der er anvendt i løbet af kurset. 
+Dette (https://minekurser.github.io/ip202403) er supportwebsiden til kurset "Introduktion til Programmering", der afholdes i marts 2024. Denne side vil være aktiv i et par måneder og tjene som et ressourcecenter, hvor du kan finde links og andre materialer, der er anvendt i løbet af kurset. 
 
 ## Ressourcer
 
