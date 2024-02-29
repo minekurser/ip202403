@@ -7,6 +7,7 @@ Dette er supportwebsiden til kurset "Introduktion til Programmering", der afhold
 ## Ressourcer
 
 - [Bogen om C# / Online](https://mcronberg.github.io/bogenomcsharp/)
+  - Vi kommer primært til at arbejde med [denne side](https://mcronberg.github.io/bogenomcsharp/level0/igangmedprogrammering.html), måske lidt om [Python](https://mcronberg.github.io/bogenomcsharp/diverse/intropython.html) samt måske C# (for begyndere).
 - [Chat](https://chat.cronberg.dk/ip202403) (bruges muligvis under kurset)
 - Kontakt [michell@cronberg.dk](mailto:michell@cronberg.dk)
 
